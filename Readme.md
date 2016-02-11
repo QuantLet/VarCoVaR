@@ -3,11 +3,13 @@
 * **Black dots**: Lambda time series
 * **Red dots**: VarCoVaR time series
 
-![](/plots/plot_ave_l_VarCoVaR_200.png)
+![](/plots/ave/plot_ave_l_VarCoVaR_200.png)
+
+![](/plots/ave/plot_ave_l_VarCoVaR_200_shift.png)
 
 ### The VarCoVaR RiskMeter shows
 * a better pronounced behaviour (than the old FRM version)
-* the Pearson correlation between both time series: 0.966
+* the Pearson correlation between both time series: 0.968
 * a clear visual correlation with the Lambda structure
 * that market heights and lows are better captured
 * a clear, concise statistical definition and derivation: conditional variance of CoVaR

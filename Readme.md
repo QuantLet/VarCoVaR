@@ -5,6 +5,7 @@
 
 ![](/plots/ave/plot_ave_l_VarCoVaR_200.png)
 
+Lambda time series is shifted for better comparison, VarCoVaR time series without shifting
 ![](/plots/ave/plot_ave_l_VarCoVaR_200_shift.png)
 
 ### The VarCoVaR RiskMeter shows

@@ -24,6 +24,8 @@ Lambda time series is shifted for better comparison, VarCoVaR time series withou
 * also the volatility and uncertainty of the CoVaR of any given company/asset
 * many interesting other features waiting for being analysed, investigated and evaluated...
 
+### Stay tuned ...
+
 
 ### Lambda vs. VarCoVaR for individual companies ...
 
@@ -32,45 +34,7 @@ Lambda time series is shifted for better comparison, VarCoVaR time series withou
 * **Green dots**: Squares of euclidean norm of the Beta vectors (from L1-Q-regression)
 
 
-### 28 Companies (S&P 500) over the last 8 years
-![](/plots/plot1.png)
-![](/plots/plot2.png)
-![](/plots/plot3.png)
-![](/plots/plot4.png)
-![](/plots/plot5.png)
-![](/plots/plot13.png)
-![](/plots/plot22.png)
-![](/plots/plot30.png)
-![](/plots/plot38.png)
-![](/plots/plot46.png)
-![](/plots/plot54.png)
-![](/plots/plot62.png)
-![](/plots/plot70.png)
-![](/plots/plot79.png)
-![](/plots/plot87.png)
-![](/plots/plot95.png)
-![](/plots/plot103.png)
-![](/plots/plot111.png)
-![](/plots/plot119.png)
-![](/plots/plot127.png)
-![](/plots/plot136.png)
-![](/plots/plot144.png)
-![](/plots/plot152.png)
-![](/plots/plot160.png)
-![](/plots/plot168.png)
-![](/plots/plot176.png)
-![](/plots/plot184.png)
-![](/plots/plot193.png)
-
-
-
-
-
-
-### Look for other companies (total of 120) into the [PNG files above... ](/plots/)
-
-### Stay tuned ...
-
+### 200 Companies with highest capitalization (S&P 500) over the last 8 years
 
 ![](/plots/plot1.png)
 ![](/plots/plot2.png) 

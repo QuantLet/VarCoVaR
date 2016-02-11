@@ -59,6 +59,6 @@
 ![](https://github.com/QuantLet/FRM/blob/master/VarCoVaR/plot184.png)
 ![](https://github.com/QuantLet/FRM/blob/master/VarCoVaR/plot193.png)
 
-### Look for other companies (total of 120) into the [PNG files above... ](https://github.com/QuantLet/FRM/tree/master/VarCoVaR)
+### Look for other companies (total of 120) into the [PNG files above... ](/plots/)
 
 ### Stay tuned ...

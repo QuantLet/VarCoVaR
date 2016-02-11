@@ -3,7 +3,7 @@
 * **Black dots**: Lambda time series
 * **Red dots**: VarCoVaR time series
 
-![](https://github.com/QuantLet/FRM/blob/master/VarCoVaR/plot_ave_l_VarCoVaR_120.png)
+![](/plots/plot_ave_l_VarCoVaR_200.png)
 
 ### The VarCoVaR RiskMeter shows
 * a better pronounced behaviour (than the old FRM version)
